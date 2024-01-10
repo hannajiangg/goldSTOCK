@@ -2,6 +2,8 @@
 
 ## Overview
 This project leverages three powerful regression models—Linear Regression, Ridge Regression, and Lasso Regression—to predict the stock prices of Gold (GC=F). The analysis encompasses data visualization, model training, and evaluation.
+- [Yahoo Stocks] ([Yahoo Finance](https://finance.yahoo.com/quote/GC=F/history?p=GC=F)
+- [Scikit-Learn[ (https://scikit-learn.org/stable/)
 
 ## Key Steps and Findings
 
